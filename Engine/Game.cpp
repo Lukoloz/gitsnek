@@ -21,7 +21,7 @@
 #include "MainWindow.h"
 #include "Game.h"
 #include "SpriteCodex.h"
-
+// am heccing dumb
 Game::Game(MainWindow& wnd)
     :
     wnd(wnd),
